@@ -116,7 +116,6 @@ This project is open-source and licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 * Data inspired by Blinkit sales structure.
-* Visual inspiration from Power BI implementation, adapted into Python.
 
 ---
 
