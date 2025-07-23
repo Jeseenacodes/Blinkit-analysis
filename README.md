@@ -1,21 +1,21 @@
 # Blinkit Sales & Customer Analysis
 
 ````markdown
-# 🛒 Blinkit Sales & Customer Analysis – Python Project
+# Blinkit Sales & Customer Analysis – Python Project
 
-## 📌 Project Overview
+## Project Overview
 This project performs a detailed analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using Python. By leveraging data analysis and visualization libraries such as Pandas, NumPy, Matplotlib, and Seaborn, it provides actionable insights to help stakeholders make data-driven decisions.
 
-## 🎯 Business Objective
+## Business Objective
 To analyze Blinkit’s sales, product trends, outlet performance, and customer feedback to identify optimization opportunities and guide business strategy.
 
-## 📊 Key KPIs
+## Key KPIs
 - **Total Sales**: Overall revenue from products sold.
 - **Average Sales**: Average revenue per order.
 - **Items Sold**: Total quantity of items sold.
 - **Average Rating**: Mean customer rating for products.
 
-## 🛠️ Workflow Summary
+##  Workflow Summary
 
 ### 1. Requirement Gathering
 - Defined the need for comprehensive sales and customer behavior analysis.
@@ -69,7 +69,7 @@ average_rating = df['Rating'].mean()
 * Large outlets generated the most revenue.
 * Urban outlets outperformed rural locations.
 
-## 💻 Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -79,7 +79,6 @@ average_rating = df['Rating'].mean()
 * Jupyter Notebook
 
 ## 📂 Project Structure
-
 ```
 📦Blinkit-Analysis
  ┣ 📄blinkit_analysis.ipynb
@@ -111,15 +110,15 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook blinkit_analysis.ipynb
 ```
 
-## 📈 Outcome
+## Outcome
 
 This project provides a complete snapshot of sales trends, customer satisfaction, and product performance. The insights can guide inventory planning, marketing efforts, and operational decisions.
 
-## 📜 License
+## License
 
 This project is open-source and licensed under the [MIT License](LICENSE).
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 * Data inspired by Blinkit sales structure.
 * Visual inspiration from Power BI implementation, adapted into Python.
