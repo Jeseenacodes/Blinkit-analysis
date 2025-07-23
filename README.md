@@ -91,8 +91,8 @@ average_rating = df['Rating'].mean()
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/blinkit-sales-analysis.git
-cd blinkit-sales-analysis
+git clone https://github.com/your-username/Blinkit_analysis.git
+cd Blinkit_analysis
 ```
 
 2. **Install dependencies**
@@ -104,7 +104,7 @@ pip install pandas numpy matplotlib seaborn
 3. **Launch the notebook**
 
 ```bash
-jupyter notebook blinkit_analysis.ipynb
+jupyter notebook Blinkit_analysis.ipynb
 ```
 
 ## Outcome
@@ -112,11 +112,9 @@ jupyter notebook blinkit_analysis.ipynb
 This project provides a complete snapshot of sales trends, customer satisfaction, and product performance. The insights can guide inventory planning, marketing efforts, and operational decisions.
 
 ## License
-
 This project is open-source and licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-
 * Data inspired by Blinkit sales structure.
 * Visual inspiration from Power BI implementation, adapted into Python.
 
