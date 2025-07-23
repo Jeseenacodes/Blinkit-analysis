@@ -1,6 +1,5 @@
 # Blinkit Sales & Customer Analysis
 
-````markdown
 # Blinkit Sales & Customer Analysis – Python Project
 
 ## Project Overview
