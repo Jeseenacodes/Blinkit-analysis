@@ -1,7 +1,5 @@
 # Blinkit Sales & Customer Analysis
 
-# Blinkit Sales & Customer Analysis – Python Project
-
 ## Project Overview
 This project performs a detailed analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using Python. By leveraging data analysis and visualization libraries such as Pandas, NumPy, Matplotlib, and Seaborn, it provides actionable insights to help stakeholders make data-driven decisions.
 
