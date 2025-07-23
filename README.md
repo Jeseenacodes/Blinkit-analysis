@@ -86,16 +86,16 @@ average_rating = df['Rating'].mean()
  ┗ 📄README.md
 ```
 ## Insights
-- ** The top-selling categories are Fruits and Vegetables, and Snack Foods, each generating $0.18M in sales.**
-- ** Tier 3 cities are driving the maximum sales of the company whereas tier 1 cities are at the minimum.**
-- ** Despite being a crucial category, Health & Hygiene serves only 520 different items and derives sales of $0.07M only.**
+- The top-selling categories are Fruits and Vegetables, and Snack Foods, each generating $0.18M in sales.**
+- Tier 3 cities are driving the maximum sales of the company whereas tier 1 cities are at the minimum.**
+- Despite being a crucial category, Health & Hygiene serves only 520 different items and derives sales of $0.07M only.**
 
 ## Recommendations
-- ** Blinkit services are only available in type 1 Supermarkets of Tier 2 cities. Consider starting the services in type 2 and 3 Supermarkets and groceries while wisely choosing their locations according to demand.
-- ** Low-fat products are in high demand across all cities. Implementing high-quality services of low-fat products will benefit long-term sales.
-- ** Focus on expanding and supporting stores established in 2018 as they show higher revenue potential.
-- ** Investigate customer feedback to improve the average customer rating of 4.0 and enhance overall customer satisfaction.
-- ** Focus on the inventory services & product qualities across all establishments in tier 3 cities as sales in these outlets have been stagnant for almost 8 straight years.
+- Blinkit services are only available in type 1 Supermarkets of Tier 2 cities. Consider starting the services in type 2 and 3 Supermarkets and groceries while wisely choosing their locations according to demand.
+- Low-fat products are in high demand across all cities. Implementing high-quality services of low-fat products will benefit long-term sales.
+- Focus on expanding and supporting stores established in 2018 as they show higher revenue potential.
+- Investigate customer feedback to improve the average customer rating of 4.0 and enhance overall customer satisfaction.
+- Focus on the inventory services & product qualities across all establishments in tier 3 cities as sales in these outlets have been stagnant for almost 8 straight years.
 
 
 ## ▶️ How to Run This Project
